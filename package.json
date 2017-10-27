@@ -1,0 +1,22 @@
+{
+  "name": "gql-fms",
+  "version": "1.0.0",
+  "description": "gwl middleware for filemakerpro server",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "keywords": [
+    "graphql",
+    "node",
+    "express"
+  ],
+  "author": "tyler gilland",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-graphql": "^0.6.11",
+    "graphiql": "^0.11.9",
+    "graphql": "^0.11.7"
+  }
+}
